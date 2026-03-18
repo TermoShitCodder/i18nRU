@@ -1,59 +1,48 @@
 {
-  "title": "Условия обслуживания",
-  "effectiveDate": "1 мая 2025 г.",
+  "title": "Privacy Policy",
+  "effectiveDate": "May 1, 2025",
   "sections": [
     {
-      "title": "1. Введение",
-      "content": "Настоящие Условия обслуживания («УО») регулируют ваш доступ к услугам, предоставляемым Opal x Terminus на сайте https://opalxterminus.com, и их использование. Получая доступ к нашим услугам или используя их, вы соглашаетесь соблюдать данные условия и признаёте, что несёте ответственность за соответствие действующему законодательству вашей страны. Если вы не согласны с условиями, использование наших услуг вам запрещено."
+      "title": "1. Introduction",
+      "content": "This Privacy Policy outlines the practices regarding the collection, usage, and sharing of your information through the website and related services provided by Opal x Terminus, accessible at https://opalxterminus.com."
     },
     {
-      "title": "2. Использование услуг",
+      "title": "2. Information We Collect",
       "content": [
-        "Вы соглашаетесь использовать наши услуги исключительно в законных целях и в соответствии с настоящими условиями.",
-        "Вы не вправе использовать услуги способами, которые могут нарушить их работу, создать чрезмерную нагрузку, нанести ущерб или помешать другим пользователям в использовании сервиса.",
-        "Вы не вправе пытаться получить несанкционированный доступ к сервисам, компьютерным системам или сетям, связанным с Opal.",
-        "Использование ботов, организация DDoS-атак или имитация действий реального человека с любым компонентом Opal или связанными с ним сервисами строго запрещены. Подобные действия влекут за собой блокировку аккаунта и иные последствия.",
-        "Несанкционированные действия — в том числе утечка данных, мошенничество, взлом, модификация, манипуляции, реверс-инжиниринг, перепродажа, распространение или передача третьим лицам любых продуктов или данных Opal — строго запрещены. За такие действия предусмотрена бессрочная блокировка аккаунта, аннулирование покупок, подача заявлений об удалении материалов (DMCA), а также внесение идентификационных данных и платёжных реквизитов нарушителя в чёрные списки Opal и аффилированных сервисов."
+        "Personal Data: Your username, email address, IP address, user agent, and payment information if you purchased an Opal service directly.",
+        "Non-Personal Data: We use cookies to enhance your experience on our website."
       ]
     },
     {
-      "title": "3. Лицензия",
-      "content": [
-        "Если не указано иное, Opal и/или его лицензиары владеют правами интеллектуальной собственности на все материалы, размещённые на Opal. Все права интеллектуальной собственности защищены. Вы можете использовать эти материалы исключительно в личных целях при соблюдении ограничений, установленных настоящими условиями.",
-        "Без явного разрешения Opal и/или его лицензиаров запрещается:",
-        "Публиковать материалы с Opal.",
-        "Распространять материалы с Opal.",
-        "Продавать, сдавать в аренду или передавать по сублицензии материалы с Opal.",
-        "Воспроизводить, копировать или дублировать материалы с Opal."
-      ]
+      "title": "3. Purpose of Data Collection",
+      "content": "The primary purpose of collecting personal data is for user identification and authentication. This ensures that we can securely grant you to access and utilize our services."
     },
     {
-      "title": "4. Учётные записи",
-      "content": "При создании аккаунта Opal вы обязаны предоставить актуальную, полную и достоверную информацию. Несоблюдение этого требования является нарушением Условий обслуживания и может повлечь за собой немедленную блокировку вашего аккаунта."
+      "title": "4. Data Sharing",
+      "content": "By nature, we may share your information with third-party service providers that we use to operate Opal, such as payment processors and email service providers. We may also share your information with other developers of Opal if you are granted access to said software. We do not share, sell, rent, or trade your personal information with any other third parties."
     },
     {
-      "title": "5. Политика возврата",
-      "content": "Возврат средств не предусмотрен, если иное не оговорено отдельно. В случае попытки инициировать мошеннический платёжный спор доступ к продукту будет немедленно аннулирован, а аккаунт — заблокирован навсегда. Обратите внимание: совершая покупку на Opal, вы добровольно отказываетесь от права оспаривать платёж."
+      "title": "5. Security of Personal Information",
+      "content": "We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security. We may disclose your information if required to do so by law or in response to a court order or subpoena. We may also disclose your information to investigate or prevent fraud, or to protect the rights, property, or safety of Opal, our developers, or others."
     },
     {
-      "title": "6. Изменение услуг и цен",
-      "content": "Мы оставляем за собой право в любое время изменить или прекратить предоставление услуги (или её части) — временно или навсегда — с уведомлением или без него. Цены на все услуги могут быть изменены без предварительного уведомления."
+      "title": "6. Data Retention",
+      "content": "We retain your personal information for as long as necessary to provide the services you have requested, or for other essential purposes such as complying with legal obligations, resolving disputes, and enforcing our policies. If you wish to delete your account, please contact us using the support email listed below."
     },
     {
-      "title": "7. Прекращение доступа",
-      "content": "Мы вправе немедленно, без предварительного уведомления и без какой-либо ответственности, приостановить или прекратить ваш доступ к услуге по любой причине, включая нарушение настоящих условий."
+      "title": "7. Children's Privacy",
+      "content": "We are committed to protecting the privacy of children. We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to use Opal or send any personal information about yourself to us."
     },
     {
-      "title": "8. Файлы cookie",
-      "content": "Мы используем файлы cookie. Получая доступ к Opal, вы соглашаетесь с использованием файлов cookie в соответствии с нашей Политикой конфиденциальности. Большинство интерактивных сайтов используют cookie для запоминания данных пользователя при каждом посещении. На нашем сайте cookie применяются для обеспечения безопасного доступа к определённым разделам. Мы не используем cookie в иных целях."
+      "title": "8. Modifications to this Policy",
+      "content": "From time to time, we may update this Privacy Policy with or without notice. We encourage you to periodically review this policy to stay informed about your information."
     },
     {
-      "title": "9. Изменение условий",
-      "content": "Мы оставляем за собой право по собственному усмотрению изменять или заменять настоящие условия в любое время."
-    },
-    {
-      "title": "10. Обратная связь",
-      "content": "Если у вас есть вопросы по данным условиям, свяжитесь с нами по адресу support@mail.opalxterminus.com. Мы постараемся ответить в кратчайшие сроки."
+      "title": "9. Contact Us",
+      "content": "If you have any questions about this Privacy Policy, or if you want to exercise any of your rights related to your personal data, feel free to contact us at support@mail.opalxterminus.com. We will do our best to respond at our earliest convenience."
     }
+  ]
+}
+
   ]
 }
